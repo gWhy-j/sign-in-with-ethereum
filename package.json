@@ -1,0 +1,11 @@
+{
+  "name": "sign-in-with-ethereum",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "viem": "^2.17.1"
+  }
+}
